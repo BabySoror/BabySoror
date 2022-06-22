@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Soror</h1>
 <h3 align="center">hacking and programming</h3>
 
-- Discord Bot in python **Bot in process**
-
 - 💬 Ask me about **Python**
 
 
